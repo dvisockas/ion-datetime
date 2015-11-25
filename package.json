@@ -1,0 +1,41 @@
+{
+  "name": "ion-datetime",
+  "version": "1.0.0",
+  "description": "Datetime directive for Ionic framework",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "AngularJS",
+    "angular",
+    "Ionic",
+    "ion",
+    "datetime"
+  ],
+  "ignore": [
+    ".gitignore",
+    "lib",
+    "src",
+    "test",
+    "node_modules",
+    "bower_components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvisockas/ion-datetime.git"
+  },
+  "authors": [
+    "Danielius Visockas <danieliusvisockas@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dvisockas/ion-datetime#readme",
+  "devDependencies": {
+    "karma": "~0.13.9",
+    "karma-chrome-launcher": "~0.2.0",
+    "karma-coverage": "^0.5.1",
+    "karma-firefox-launcher": "~0.1.6",
+    "karma-jasmine": "~0.3.6",
+    "karma-ng-html2js-preprocessor": "^0.1.2",
+    "karma-phantomjs-launcher": "~0.2.1"
+  }
+}

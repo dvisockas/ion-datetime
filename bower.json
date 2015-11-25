@@ -1,0 +1,20 @@
+{
+  "name": "ion-datetime",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dvisockas/ion-datetime",
+  "authors": [
+    "Danielius <danieliusvisockas@gmail.com>"
+  ],
+  "description": "Ionic plugin for datetime input support",
+  "keywords": [
+    "Angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
